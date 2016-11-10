@@ -21,6 +21,3 @@ This programm is licensed under the terms of the
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
 
 **Being modified by Adamthedog**
-# bf-interpreter
-# bf-interpreter
-# bf-interpreter
