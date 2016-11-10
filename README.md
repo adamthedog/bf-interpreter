@@ -20,4 +20,6 @@ http://en.wikipedia.org/wiki/Brainfuck
 This programm is licensed under the terms of the
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
 
+Original source: https://github.com/pocmo/Python-Brainfuck
+
 **Being modified by Adamthedog**
